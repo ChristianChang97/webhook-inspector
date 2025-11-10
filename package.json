@@ -1,0 +1,11 @@
+{
+  "name": "desafio-fullstack-com-ia-25",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "workspace": [
+    "api",
+    "web"
+  ],
+  "packageManager": "pnpm@10.20.0"
+}
